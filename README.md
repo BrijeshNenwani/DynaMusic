@@ -1,4 +1,4 @@
-# DynaMosic
+# DynaMusic
 This app uses recycler view to bind view in a list like structure.
 Beautiful background UI and rotating disc makes it even more beautiful.
 
